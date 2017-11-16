@@ -26,3 +26,5 @@ Cozmo机器人诞生于美国旧金山Anki公司，机器人内置摄像头可�
   2. 下载地址：`https://pan.lanzou.com/1581415/`
   3. 安装完成后打开APKPure搜索Cozmo 点击左侧安装按钮安装Cozmo。
   4. 安装完成后即可愉快的玩耍啦。
+- **Android用户**: 另给出2.0.3版本下载地址（网速慢请用此下载），内含apk安装包和obb数据文件。
+  - [https://pan.baidu.com/s/1eSPap38](https://pan.baidu.com/s/1eSPap38)
