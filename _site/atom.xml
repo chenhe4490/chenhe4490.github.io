@@ -4,7 +4,7 @@
  <title>秋叶游子</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000"/>
- <updated>2017-11-15T20:47:24+08:00</updated>
+ <updated>2017-11-17T15:08:24+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>lily</name>
@@ -41,6 +41,11 @@
       &lt;li&gt;安装完成后打开APKPure搜索Cozmo 点击左侧安装按钮安装Cozmo。&lt;/li&gt;
       &lt;li&gt;安装完成后即可愉快的玩耍啦。&lt;/li&gt;
     &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Android用户&lt;/strong&gt;: 另给出2.0.3版本下载地址（网速慢请用此下载），内含apk安装包和obb数据文件。
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://pan.baidu.com/s/1eSPap38&quot;&gt;https://pan.baidu.com/s/1eSPap38&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 </content>
