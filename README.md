@@ -7,7 +7,7 @@ Jekyll-Jacman 是为 [Jekyll](http://jekyllrb.com) 设计的一款清新且具�
  * [主题演示](http://simpleyyt.github.io/jekyll-jacman/)
  * [如何使用 Jacman 主题](http://simpleyyt.github.io/jekyll-jacman/jekyll/2015/09/20/how-to-use-jacman)
 
-## 本地搭建
+## 本地搭建 
 
 确保已安装`Ruby 2.1.0` 或更高版本：
 
