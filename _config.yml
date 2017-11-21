@@ -85,8 +85,8 @@ share_to: true #enable share-to buttons if true
 #### Author information
 author:
   name: lily      ## e.g. wuchong Author name
-  intro_line1:  "最重要的，拥有跟随内心与直觉的勇气。"    ## your introduction on the bottom of the page
-  intro_line2:  "你的内心与直觉多少已经知道你真正想要成为什么样的人。任何其它事物都是次要的。."  ## the 2nd line
+  intro_line1:  "最重要的，拥有跟随内心与直觉的勇气，你的内心与直觉多少已经知道你真正想要成为什么样的人, 任何其它事物都是次要的。"    ## your introduction on the bottom of the page
+  intro_line2:  ""  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
